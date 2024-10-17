@@ -1,6 +1,5 @@
 # 👨‍💻 Mohamed Abdelkader Ben Fraj - Full Stack Developer
 
-I am a passionate student in the dynamic world of web development and backend technologies.
 
 ## 🚀 Skills & Technologies
 
